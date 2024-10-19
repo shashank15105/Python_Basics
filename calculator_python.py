@@ -21,3 +21,4 @@ elif operator =="/":
 else:
     print("Invalid input")
     
+print("Thank You")
