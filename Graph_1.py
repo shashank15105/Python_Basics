@@ -15,3 +15,4 @@ else:
     plt.axvline(x=0, color="red")
     plt.axhline(y=0, color="red")
     plt.show()
+print("Thank you!")
